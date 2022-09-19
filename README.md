@@ -12,7 +12,7 @@
 
 
 
-### Experienced full-stack developer, smart contracts coder and tokenomics expert.  
+## Experienced full-stack developer, smart contracts coder and tokenomics expert.  
 I specialize in DeFi and NFT contracts and can deliver quick and scalable solutions on Ethereum, Cosmos, Polkadot, or Solana.
 
 I can help you build with ERC20, NFT creation via ERC721 or ERC1155, and deploying private network/Quorum and Hyperledger Fabric.
@@ -21,6 +21,12 @@ I take an idea or project and turn it into a complete solution until my customer
   
 
 <br/>  
+
+## Streak Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ProsperDev&theme=tokyonight_duo&hide_border=true" alt="ProsperDev" />
+</p>
 
 ## Languages and Tools  
 <div align="center">  
@@ -44,7 +50,8 @@ I take an idea or project and turn it into a complete solution until my customer
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>
+
 </div>  
 
 <br/>  
