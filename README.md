@@ -1,3 +1,12 @@
+<br/>  
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=ProsperDev&&style=flat-square" align="right" />
+</div>  
+  
+
+<br/>  
+
 ## Hey 👋, Welcome!  
   
 
@@ -66,5 +75,3 @@ I take an idea or project and turn it into a complete solution until my customer
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
