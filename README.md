@@ -63,15 +63,5 @@ I take an idea or project and turn it into a complete solution until my customer
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
 <br />
 
