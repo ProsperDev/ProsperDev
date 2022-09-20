@@ -50,9 +50,9 @@ I take an idea or project and turn it into a complete solution until my customer
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ProsperDev&show_icons=true&count_private=true&hide_border=true" align="left" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ProsperDev&show_icons=true&count_private=true" align="left" height="170px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperDev&hide_border=true&layout=compact" align="left" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperDev&layout=compact" align="left" height="170px" />
 
 <br/>  
 
