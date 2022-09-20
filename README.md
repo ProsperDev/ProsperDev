@@ -1,12 +1,8 @@
 <br/>  
-
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=ProsperDev&&style=flat-square" align="right" />
-</div>  
-  
-
+</div>
 <br/>  
-
 ## Experienced full-stack developer, smart contracts coder and tokenomics expert.  
 I specialize in DeFi and NFT contracts and can deliver quick and scalable solutions on Ethereum, Cosmos, Polkadot, or Solana.
 
