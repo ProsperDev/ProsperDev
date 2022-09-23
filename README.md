@@ -4,7 +4,11 @@
 </div>
 <br/>  
 
-## Experienced full-stack developer, smart contracts coder and tokenomics expert.  
+## Experienced full-stack developer, smart contracts coder and tokenomics expert. 
+I have over 7 years of senior full stack/blockchain engineer experience.
+
+The fields I can proudly introduce are React, NodeJS, Python, Django, Web3, Smart Contract and Typescript, etc.
+
 I specialize in DeFi and NFT contracts and can deliver quick and scalable solutions on Ethereum, Cosmos, Polkadot, or Solana.
 
 I can help you build with ERC20, NFT creation via ERC721 or ERC1155, and deploying private network/Quorum and Hyperledger Fabric.
