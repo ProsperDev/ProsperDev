@@ -1,9 +1,3 @@
-<br/>  
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=TYFelix&&style=flat-square" align="right" />
-</div>
-<br/>  
-
 ## Experienced full-stack developer, smart contracts coder and tokenomics expert. 
 I have over 7 years of senior full stack/blockchain engineer experience.
 
