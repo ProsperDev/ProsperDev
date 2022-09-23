@@ -1,6 +1,6 @@
 <br/>  
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=ProsperDev&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=TYFelix&&style=flat-square" align="right" />
 </div>
 <br/>  
 
@@ -17,7 +17,7 @@ I take an idea or project and turn it into a complete solution until my customer
 ## Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ProsperDev&theme=tokyonight_duo&hide_border=true" alt="ProsperDev" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TYFelix&theme=tokyonight_duo&hide_border=true" alt="TYFelix" />
 </p>
 
 ## Languages and Tools  
@@ -43,9 +43,9 @@ I take an idea or project and turn it into a complete solution until my customer
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ProsperDev&show_icons=true&count_private=true" align="left" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=TYFelix&show_icons=true&count_private=true" align="left" height="170px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperDev&layout=compact" align="left" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYFelix&layout=compact" align="left" height="170px" />
 
 <br/>  
 
