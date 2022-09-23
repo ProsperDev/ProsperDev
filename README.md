@@ -40,11 +40,6 @@ I take an idea or project and turn it into a complete solution until my customer
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=TYFelix&show_icons=true&count_private=true" align="left" height="170px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYFelix&layout=compact" align="left" height="170px" />
-
 <br/>  
 
 <br />
