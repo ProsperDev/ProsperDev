@@ -39,8 +39,3 @@ I take an idea or project and turn it into a complete solution until my customer
 </div>
 <br/>  
 
-
-<br/>  
-
-<br />
-
