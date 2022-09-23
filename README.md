@@ -1,7 +1,7 @@
 ## Experienced full-stack developer, smart contracts coder and tokenomics expert. 
 I have over 7 years of senior full stack/blockchain engineer experience.
 
-The fields I can proudly introduce are React, NodeJS, Python, Django, Web3, Smart Contract and Typescript, etc.
+The fields I can proudly introduce are React, NodeJS, Python, Django, Web3, Solidity and Typescript, etc.
 
 I specialize in DeFi and NFT contracts and can deliver quick and scalable solutions on Ethereum, Cosmos, Polkadot, or Solana.
 
