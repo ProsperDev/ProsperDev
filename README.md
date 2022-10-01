@@ -1,4 +1,4 @@
-## Experienced full-stack developer, smart contracts coder and tokenomics expert. 
+## Senior Full-stack / Blockchain engineer. 
 I have over 7 years of senior full stack/blockchain engineer experience.
 
 The fields I can proudly introduce are React, NodeJS, Python, Django, Web3, Solidity and Typescript, etc.
