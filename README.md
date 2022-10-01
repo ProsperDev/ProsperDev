@@ -16,6 +16,7 @@ Also I'm open to learning new frameworks or languages that are needed to fulfil 
 If you have an idea or a clear vision of your application functionality and need assistance to translate it into a real-life product - don’t hesitate to contact me.
 
 </br>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=1200&center=true&lines=Where+there's+a+will,+there's+a+way!)
 ## Languages and Tools  
 
