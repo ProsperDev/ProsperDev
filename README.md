@@ -3,12 +3,6 @@ I have over 7 years of senior full stack/blockchain engineer experience.
 
 My significant skills are business/enterprise-level web development and blockchain application development, including Solidity and NFT.
 
-I prefer to work on big projects with complex business logic and actually participated in many potential projects.
-
-High-level abstracted logic for extensible work, perfect data modeling is one of my excellent skills.
-
-The fields I can proudly introduce are React, NodeJS, Python, Django, Web3, Solidity and Typescript, etc.
-
 I take an idea or project and turn it into a complete solution until my customers are happy.
 
 Also I'm open to learning new frameworks or languages that are needed to fulfil a project.
