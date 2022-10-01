@@ -1,3 +1,7 @@
+</br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=1200&center=true&lines=Where+there's+a+will,+there's+a+way!)
+
 ## Senior Full-stack / Blockchain engineer. 
 I have over 7 years of senior full stack/blockchain engineer experience.
 
@@ -15,9 +19,6 @@ I take an idea or project and turn it into a complete solution until my customer
 * 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
 * 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
-</br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=1200&center=true&lines=Where+there's+a+will,+there's+a+way!)
 
 ## Streak Stats
 
