@@ -1,13 +1,20 @@
 ## Senior Full-stack / Blockchain engineer. 
 I have over 7 years of senior full stack/blockchain engineer experience.
 
+My significant skills are business/enterprise-level web development and blockchain application development, including Solidity and NFT.
+
+I prefer to work on big projects with complex business logic and actually participated in many potential projects.
+
+High-level abstracted logic for extensible work, perfect data modeling is one of my excellent skills.
+
 The fields I can proudly introduce are React, NodeJS, Python, Django, Web3, Solidity and Typescript, etc.
 
-I specialize in DeFi and NFT contracts and can deliver quick and scalable solutions on Ethereum, Cosmos, Polkadot, or Solana.
+I take an idea or project and turn it into a complete solution until my customers are happy.
 
-I can help you build with ERC20, NFT creation via ERC721 or ERC1155, and deploying private network/Quorum and Hyperledger Fabric.
+Also I'm open to learning new frameworks or languages that are needed to fulfil a project.
 
-I take an idea or project and turn it into a complete solution until my customers are happy.  
+If you have an idea or a clear vision of your application functionality and need assistance to translate it into a real-life product - don’t hesitate to contact me.
+
 </br>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=1200&center=true&lines=Where+there's+a+will,+there's+a+way!)
 ## Languages and Tools  
