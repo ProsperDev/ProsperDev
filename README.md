@@ -8,7 +8,14 @@
 * I prefer to work on big projects with complex business logic and actually participated in many potential projects.
 * I'm open to learning new frameworks or languages that are needed to fulfil a project.
 * I take an idea or project and turn it into a complete solution until my customers are happy.
-
+  
+## What are My Skills.
+* Rust, Solidity, Web3js, Etherjs, DEX, DeFi, Crypto, NFT & NFT Marketplace
+* AI, Python, JavaScript, Go, Java
+* Reactjs, Nodejs, Laravel, MongoDB, SQL
+* AWS, Azure, Cloudflare, Google Cloud, CI/CD
+...
+  
 ## These are My Projects.
 * AI + Blockchain
 	* AI + Blockchain Developer at MYAI
