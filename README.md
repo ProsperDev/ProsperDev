@@ -1,28 +1,41 @@
-</br>
+<div align="center">
+<img src="https://i.ibb.co/XLnmHqs/Blockchain-AI-pr-image.jpg" align="center" style="width: 100%" />
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=1200&center=true&lines=Where+there's+a+will,+there's+a+way!)
+## Blockchain / AI / Fullstack Engineer. It is Me. 
+------------------------------------------------
+* I have over 7 years of Full Stack/Blockchain/AI engineer experience.
+* My significant skills are business/enterprise-level web development and blockchain application development, including Solidity and NFT.
+* I prefer to work on big projects with complex business logic and actually participated in many potential projects.
+* I'm open to learning new frameworks or languages that are needed to fulfil a project.
+* I take an idea or project and turn it into a complete solution until my customers are happy.
 
-## Senior Full-stack / Blockchain engineer. 
-I have over 7 years of senior full stack/blockchain engineer experience.
+## These are My Projects.
+-------------------------------------------------
+* AI + Blockchain
+	* AI + Blockchain Developer at MYAI
+	* https://myai-frontend.netlify.app
+	* https://github.com/topcook/myai-ai-frontend
+* Blockchain
+  	* Gov_world
+  	  	* Lead Developer at Gov_world
+		* https://www.govworld.io/
+		* https://github.com/Techlead0107
+  	  	* https://twitter.com/govworld
+  	* NearNauts
+		* Blockchain Developer at NearNauts
+		* https://twitter.com/NEARNauts
+		* https://github.com/nearnautnft
+  	* RedkiteNFT
+  	  	* Frontend Developer at RedkiteNFT
+		* https://www.redkitenft.com/
+		* https://github.com/RedkiteNFT
+* Web
+	* Online Casino
+ 		* Fullstack Developer at Affiliateslots
+		* https://canada777.com
+		* https://europa777.com
 
-My significant skills are business/enterprise-level web development and blockchain application development, including Solidity and NFT.
-
-I prefer to work on big projects with complex business logic and actually participated in many potential projects.
-
-I'm open to learning new frameworks or languages that are needed to fulfil a project.
-
-I take an idea or project and turn it into a complete solution until my customers are happy.
-
-## Languages and Tools  
-* 🥈 Blockchain Development: [Solidity](https://soliditylang.org/), [Pancakeswap](https://pancakeswap.finance/), [Uniswap](https://Uniswap.org), [Binance](binance.com), [Ethereum](https://ethereum.org/), [Fantom](https://fantom.foundation/), [Solana](https://solana.com/)
-* 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular.js](https://angular.io/)
-* 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
-* 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
-* 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
-
-## Streak Stats
-
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TProsper&theme=tokyonight_duo&hide_border=true" alt="TProsper" />
-</p>
-
+## I am Here.
+-------------------------------------------------
+@shadow0107 (discord)
