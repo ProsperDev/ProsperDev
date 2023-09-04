@@ -3,7 +3,6 @@
 </div>
 
 ## Blockchain / AI / Fullstack Engineer. It is Me. 
-------------------------------------------------
 * I have over 7 years of Full Stack/Blockchain/AI engineer experience.
 * My significant skills are business/enterprise-level web development and blockchain application development, including Solidity and NFT.
 * I prefer to work on big projects with complex business logic and actually participated in many potential projects.
@@ -11,7 +10,6 @@
 * I take an idea or project and turn it into a complete solution until my customers are happy.
 
 ## These are My Projects.
--------------------------------------------------
 * AI + Blockchain
 	* AI + Blockchain Developer at MYAI
 	* https://myai-frontend.netlify.app
@@ -37,5 +35,4 @@
 		* https://europa777.com
 
 ## I am Here.
--------------------------------------------------
 @shadow0107 (discord)
