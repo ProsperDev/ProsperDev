@@ -10,9 +10,9 @@
 * I take an idea or project and turn it into a complete solution until my customers are happy.
   
 ## What are My Skills.
-* Rust, Solidity, Web3js, Etherjs, DEX, DeFi, Crypto, NFT & NFT Marketplace
+* Rust, Solidity, Web3js, Etherjs, DEX, DeFi, Crypto, NFT & AMM NFT Marketplace, Subgraph
 * AI, Python, JavaScript, Go, Java
-* Reactjs, Nodejs, Laravel, MongoDB, SQL
+* Reactjs, Nodejs, Laravel, MongoDB, SQL, Nest, Next, Wagmi
 * AWS, Azure, Cloudflare, Google Cloud, CI/CD
 ...
   
