@@ -17,10 +17,6 @@
 ...
   
 ## These are My Projects.
-* AI + Blockchain
-	* AI + Blockchain Developer at MYAI
-	* https://myai-frontend.netlify.app
-	* https://github.com/topcook/myai-ai-frontend
 * Blockchain
   	* Gov_world
   	  	* Lead Developer at Gov_world
