@@ -31,11 +31,7 @@
   	  	* Frontend Developer at RedkiteNFT
 		* https://www.redkitenft.com/
 		* https://github.com/RedkiteNFT
-* Web
-	* Online Casino
- 		* Fullstack Developer at Affiliateslots
-		* https://canada777.com
-		* https://europa777.com
+
 
 ## I am Here.
 @shadow0107 (discord)
